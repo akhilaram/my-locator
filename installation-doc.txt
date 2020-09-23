@@ -1,0 +1,16 @@
+"commands for running react-app"
+
+node with npm should be available in the system to run the Application
+
+-->Traverse through project in terminal:
+	cd my-locator-master
+
+-->install all dependencies using:
+	npm install 
+
+-->start the application
+	npm start
+
+
+
+
