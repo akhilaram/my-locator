@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+
+.dropdown {
+  margin-bottom: 1em;
+  display: flex;
+}
+
+.dropdown .title {
+  width: 100%;
+}
+.dropdown .MenuList {
+  padding: 1em;
+}
+.dropdown .menu {
+  max-height: 30em;
+  overflow: auto;
+  padding: 1em;
+}
+
+.dropdown .menu .option {
+  padding: 0.3em;
+}
+
+.dropdown .menu .option:hover {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.pointerCursor:hover {
+  cursor: pointer;
+}
